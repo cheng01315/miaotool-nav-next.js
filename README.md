@@ -11,6 +11,11 @@
   
 </ul>
 
+<br/>
+<div align="center">
+-------以下为原项目信息:--------
+</div>
+<br/>
 
 
 # Pintree
